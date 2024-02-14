@@ -1,0 +1,4 @@
+Python Libraries (Install Using pip) :
+-Pandas
+-Plotly
+-Streamlit
