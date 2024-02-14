@@ -8,7 +8,7 @@ import streamlit as st  # pip install streamlit
 st.set_page_config(page_title="Sales Dashboard", page_icon=":bar_chart:", layout="wide")
 
 # read by default 1st sheet of an excel file
-df = pd.read_excel("D:/Sample - Superstore.xls") #excel file path
+df = pd.read_excel("Superstore.xls") #excel file path
 
 
 # ---- SIDEBAR ----
